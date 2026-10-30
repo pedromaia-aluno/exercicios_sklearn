@@ -1,0 +1,12 @@
+O modelo apresentou uma boa Accuracy?
+
+Sim, o modelo apresentou uma Accuracy excelente de 1.00 (100%), o que é um resultado perfeito para o conjunto de teste.
+Houve muitas classificações incorretas?
+
+Não, não houve nenhuma classificação incorreta. A matriz de confusão mostra que todos os 45 registros do conjunto de teste foram classificados corretamente em suas respectivas espécies.
+Qual espécie foi mais fácil de identificar?
+
+Todas as espécies (setosa, versicolor e virginica) foram igualmente fáceis de identificar, pois o modelo as classificou com 100% de precisão, recall e f1-score, sem cometer erros em nenhuma delas.
+Qual espécie apresentou mais erros?
+
+Nenhuma espécie apresentou erros. Como o modelo atingiu 100% de acurácia, não houve erros de classificação para nenhuma das espécies.
